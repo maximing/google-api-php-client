@@ -1,5 +1,5 @@
 {
-    "name": "google/apiclient",
+    "name": "maximing/google-apiclient",
     "type": "library",
     "description": "Client library for Google APIs",
     "keywords": ["google"],
@@ -10,7 +10,7 @@
         "google/auth": "^1.0",
         "google/apiclient-services": "~0.13",
         "firebase/php-jwt": "~2.0||~3.0||~4.0||~5.0",
-        "monolog/monolog": "^1.17",
+        "monolog/monolog": "@dev",
         "phpseclib/phpseclib": "~0.3.10||~2.0",
         "guzzlehttp/guzzle": "~5.3.1||~6.0",
         "guzzlehttp/psr7": "^1.2"
